@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = saul@wegrzyn.org
+	name = Saul Wegrzyn
